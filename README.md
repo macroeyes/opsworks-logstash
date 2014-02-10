@@ -29,7 +29,7 @@ __A screenshot of the layers in [AWS OpsWorks](http://aws.amazon.com/opsworks/)_
 {
     "chef_environment": "production",
     "elasticsearch": {
-        "dir": "/mnt/es_data",
+        "dir": "/mnt",
         "cluster": {
             "name": "logstash"
         },
